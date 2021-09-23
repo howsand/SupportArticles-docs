@@ -36,7 +36,7 @@ If the directory server is configured to reject unsigned SASL LDAP binds or LDAP
 
 ## How to configure the directory to require LDAP server signing for AD DS
 
-For information about possible affects of changing security settings, see [Client, service, and program issues can occur if you change security settings and user rights assignments](https://support.microsoft.com/help/823659).
+For information about possible effects of changing security settings, see [Client, service, and program issues can occur if you change security settings and user rights assignments](https://support.microsoft.com/help/823659).
 
 > [!NOTE]
 > Logging anomaly of Event ID 2889
